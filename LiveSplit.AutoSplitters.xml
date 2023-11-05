@@ -1085,7 +1085,7 @@
             <Game>Rhythm Doctor</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Rhythm%20Doctor/RhythmDoctor.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/RhythmDoctor_Autosplitter/main/RhythmDoctor_Autosplitter.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1305,7 +1305,7 @@
             <Game>Deliver Us Mars</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Deliver%20Us%20Mars/DeliverUsMars.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/DeliverUsMars_Autosplitter/main/DeliverUsMars_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal and Autosplitter (by Nikoheart)</Description>
@@ -1493,7 +1493,7 @@
             <Game>Lone Ruin</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Lone%20Ruin/LoneRuin.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/LoneRuin_Autosplitter/main/LoneRuin.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2084,8 +2084,8 @@
             <Game>Goosebumps: Dead of Night</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Goosebumps%20Dead%20Of%20Night/GoosebumpsDeadOfNight.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Goosebumps_DeadOfNight/main/GDON_Autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter/Load remover/IL Run Timer by Nikoheart.</Description>
@@ -2379,8 +2379,8 @@
             <Game>The Stanley Parable: Ultra Deluxe Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/The%20Stanley%20Parable%20Ultra%20Deluxe/TSPUD.asl</URL>
-           <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/TheStanleyParableUltraDeluxe_Autosplitter/main/TSPUD_AutoSplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter by Nikoheart</Description>
@@ -2391,8 +2391,8 @@
             <Game>Dexter Stardust: Adventures in Outer Space</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Dexter%20Stardust%20Adventures%20in%20Outer%20Space/DexterStardust.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/DexterStardustAdventuresInOuterSpace_AutoSplitter/main/DexterStardust.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter by Nikoheart</Description>
@@ -8081,8 +8081,9 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Trackmania</Game>
+            <Game>Trackmania (2020)</Game>
             <Game>Trackmania Club Campaigns</Game>
+            <Game>Trackmania Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://github.com/GreepTheSheep/LiveSplit.Server/releases/latest/download/LiveSplit.TMServer.dll</URL>
@@ -8105,7 +8106,7 @@
             <Game>TrackMania One - Alpine</Game>
             <Game>TrackMania One - Speed</Game>
             <Game>TrackMania² Canyon : Platform</Game>
-            <Game>TrackMania² A01</Game>
+            <Game>TrackMania² Island</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Rastats/Maniaplanet/main/TM2-Autosplitter-IGT%20(by%20Malakat).asl</URL>
@@ -8126,10 +8127,10 @@
     <AutoSplitter>
         <Games>
             <Game>TrackMania Nations Forever</Game>
+            <Game>TrackMania Nations Remake</Game>
             <Game>TrackMania United Forever</Game>
             <Game>TMX Community Campaign</Game>
             <Game>Kackiest Kacky 1</Game>
-            <Game>TrackMania Nations Remake</Game>
             <Game>Kackiest Kacky 2</Game>
             <Game>Kackiest Kacky Category Extension</Game>
         </Games>
