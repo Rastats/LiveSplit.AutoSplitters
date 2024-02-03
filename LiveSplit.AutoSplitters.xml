@@ -8361,6 +8361,8 @@
     <AutoSplitter>
         <Games>
             <Game>Trackmania</Game>
+            <Game>Trackmania (2020)</Game>
+            <Game>Trackmania Category Extensions</Game>
             <Game>Trackmania Club Campaigns</Game>
         </Games>
         <URLs>
@@ -8384,7 +8386,6 @@
             <Game>TrackMania One - Alpine</Game>
             <Game>TrackMania One - Speed</Game>
             <Game>TrackMania² Canyon : Platform</Game>
-            <Game>TrackMania² A01</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Rastats/Maniaplanet/main/TM2-Autosplitter-IGT%20(by%20Malakat).asl</URL>
@@ -8433,9 +8434,10 @@
     <AutoSplitter>
         <Games>
             <Game>TrackMania Turbo</Game>
+            <Game>TrackMania Turbo VR Experience</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voyager006/Autosplitters/master/TrackmaniaTurbo/TrackmaniaTurbo.asl</URL>
+            <URL>https://raw.githubusercontent.com/Rastats/TMTurbo/main/TMTurboAutosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>In-game time + auto start/reset/split options are available. (By Voyager006 and donadigo)</Description>
